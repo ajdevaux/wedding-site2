@@ -1239,7 +1239,7 @@
 /*********************************************************************************/
 
 	#engagement_photos {
-		background: url('images/overlay.png'), url('../images/pine_frame_banner.jpg');
+		background: url('images/overlay.png'), url('../images/banners/pine_frame_banner.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1250,7 +1250,7 @@
 /*********************************************************************************/
 
 	#ceremony {
-		background: url('images/overlay.png'), url('../images/arboretum_barn.jpg');
+		background: url('images/overlay.png'), url('../images/banners/flower_banner.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1261,7 +1261,7 @@
 /*********************************************************************************/
 
 	#ceremony_main {
-		background: url('images/overlay.png'), url('../images/arboretum_path.jpg');
+		background: url('images/overlay.png'), url('../images/banners/flower_banner.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
