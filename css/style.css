@@ -10,15 +10,15 @@
 /*********************************************************************************/
 
 	.typewriter, h2 {
-		font-family: 'Cutive', serif;
+		font-family: 'Helvetica', serif;
 		font-weight: 400;
 	}
 	.fancy {
-		font-family: 'Lovers Quarrel', cursive;
+		font-family: 'Optima', sans-serif;
 		font-weight: 400;
 	}
 	.monospace {
-		font-family: 'Cutive', serif;
+		font-family: 'Helvetica', serif;
 		font-weight: 400;
 	}
 
