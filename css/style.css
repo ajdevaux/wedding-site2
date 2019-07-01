@@ -1149,8 +1149,8 @@
 		background: url('images/overlay.png'), url('../images/banners/eclipse_hdr_mod.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: 30%, 0%;
-		background-repeat: top left, center center;
+		background-position: top right, center center;
+		background-repeat: repeat, no-repeat;
 	}
 
 /*********************************************************************************/
