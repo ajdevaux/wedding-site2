@@ -1150,7 +1150,7 @@
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: 30%, 0%;
-		background-repeat: top right, center center;
+		background-repeat: top left, center center;
 	}
 
 /*********************************************************************************/
