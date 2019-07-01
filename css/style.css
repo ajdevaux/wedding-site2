@@ -1147,9 +1147,9 @@
 
 	#intro {
 		background: url('images/overlay.png'), url('../images/banners/eclipse_hdr.jpg');
-		background-size: 400px 256px, cover;
+		background-size: 800px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: 0%, 30%;
+		background-position: 0%, 0%;
 		background-repeat: repeat, no-repeat;
 	}
 
