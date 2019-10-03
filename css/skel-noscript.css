@@ -25,7 +25,7 @@
 	}
 
 	/* Modifiers */
-	
+
 		.container.small {
 			width: 900px;
 		}
@@ -165,4 +165,9 @@
 
 				.row.double {
 					margin-left: -100px;
+				}
+			/* Centered */
+
+				.row.centered > * {
+					padding: 25% 25% 25% 25%;
 				}
